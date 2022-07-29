@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    box-sizing: border-box;
+    background-color:gray;
+}
+header{
+    background-color: white;
+    padding: 15px;
+}
+header h1 {
+    width: 600px;
+    margin: 0px;
+    margin: auto;
+}
+
+
+article{
+    background-color: white;
+    margin: auto;
+    width: 450px;
+    margin-top: 50px;
+    border-color:black;
+
+}
+.bondy-header
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+
+}
+.bondy-title{
+    font-size: 1.2rem;
+    font-weight: bold;
+
+}
+.bondy-date{
+    font-size: 1.2rem;
+    font-weight: lighter;
+}
+.bondy-body{
+    margin: auto;
+  width: 600px;
+  height: 600px;
+}
